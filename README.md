@@ -3,7 +3,12 @@ GreatLearning - MIT - Applied DataScience Program
 
 The MIT Professional Education's Applied Data Science Program, with a curriculum developed and taught by MIT faculty, is delivered in collaboration with Great Learning.
 
-Lead Instructor(s)
+<h3>Lead Instructor(s)</h3>
+
+<li> Dr. Abhinanda Sarkar
+        Academic Director, Data Science and Machine Learning
+        Great Learning
+        
 <li> Munther Dahleh
 <li> Stefanie Jegelka
 <li> Devavrat Shah
