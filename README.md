@@ -1,5 +1,5 @@
 # GL-MIT-ADSP-2023
-GreatLearning - MIT - Applied DataScience Program
+GreatLearning - MIT - Applied DataScience Program - March 2023
 
 The MIT Professional Education's Applied Data Science Program, with a curriculum developed and taught by MIT faculty, is delivered in collaboration with Great Learning.
 
