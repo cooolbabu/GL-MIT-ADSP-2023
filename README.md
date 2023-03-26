@@ -6,9 +6,8 @@ The MIT Professional Education's Applied Data Science Program, with a curriculum
 <h3>Lead Instructor(s)</h3>
 
 <li> Dr. Abhinanda Sarkar
-        Academic Director, Data Science and Machine Learning
-        Great Learning
-        
+        Academic Director 
+        Data Science and Machine Learning        
 <li> Munther Dahleh
 <li> Stefanie Jegelka
 <li> Devavrat Shah
